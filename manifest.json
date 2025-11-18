@@ -17,7 +17,7 @@
     "gecko": {
       "id": "darknessitself22@gmail.com",
       "data_collection_permissions": {
-        "required": []
+        "required": ["none"]
       }
     }
   }

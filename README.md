@@ -1,2 +1,2 @@
 # spotify-to-ytm
-Redirects web links from Spotify to YouTube music
+A browser extension that redirects web links from Spotify to YouTube Music
